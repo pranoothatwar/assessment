@@ -1,0 +1,1 @@
+raise RuntimeError('this is run time exception')
